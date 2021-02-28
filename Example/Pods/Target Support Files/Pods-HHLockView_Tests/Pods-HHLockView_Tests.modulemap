@@ -1,0 +1,6 @@
+framework module Pods_HHLockView_Tests {
+  umbrella header "Pods-HHLockView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
