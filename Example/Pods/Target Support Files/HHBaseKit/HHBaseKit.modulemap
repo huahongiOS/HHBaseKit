@@ -1,6 +1,0 @@
-framework module HHBaseKit {
-  umbrella header "HHBaseKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
